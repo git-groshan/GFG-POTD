@@ -1,0 +1,7 @@
+#python Solution
+class Solution():
+    def modulo(self, s, m):
+        k = int(s,2)
+        return k%m;
+        #your code goes here
+        
