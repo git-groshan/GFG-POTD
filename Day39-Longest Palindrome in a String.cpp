@@ -49,7 +49,7 @@ class Solution {
 
 // solution 2
 
-class Solution {
+class Solution2 {
   public:
     string longestPalin (string S) {
         // code here
